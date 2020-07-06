@@ -1,0 +1,9 @@
+F:\c#\MyProject\Bsiac Window Form\Dose\Dose\bin\Debug\tic-tac-toe.exe.config
+F:\c#\MyProject\Bsiac Window Form\Dose\Dose\bin\Debug\tic-tac-toe.exe
+F:\c#\MyProject\Bsiac Window Form\Dose\Dose\bin\Debug\tic-tac-toe.pdb
+F:\c#\MyProject\Bsiac Window Form\Dose\Dose\obj\Debug\Dose.Form1.resources
+F:\c#\MyProject\Bsiac Window Form\Dose\Dose\obj\Debug\Dose.Properties.Resources.resources
+F:\c#\MyProject\Bsiac Window Form\Dose\Dose\obj\Debug\tic-tac-toe.csproj.GenerateResource.cache
+F:\c#\MyProject\Bsiac Window Form\Dose\Dose\obj\Debug\tic-tac-toe.csproj.CoreCompileInputs.cache
+F:\c#\MyProject\Bsiac Window Form\Dose\Dose\obj\Debug\tic-tac-toe.exe
+F:\c#\MyProject\Bsiac Window Form\Dose\Dose\obj\Debug\tic-tac-toe.pdb
